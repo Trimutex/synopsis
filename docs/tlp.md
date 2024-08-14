@@ -1,0 +1,79 @@
+# TLP Modlist
+
+## Main:
+- AI Improvements
+- Alcocraft: Beer & Stuff
+- Amplified Nether
+- Appleskin
+- Applied Energistics 2
+- Attribute Fix
+- Balm
+- Biomes-O-Plenty
+- Canary
+- CC Tweaked
+- Chunkloaders
+- Clumps
+- Cucumber
+- Dungeon Crawl
+- Draconic
+- Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons
+- Falling Tree
+- Immersive Engineering
+- Iron's Spells 'n Spellbooks
+- It Shall Not Tick
+- Just Enough Items
+- KubeJS
+- Lazy DataFixerUpper
+- Mekanism
+- Mekanism: Generators
+- MrCrayfish's Furniture Mod
+- Mystical Agradditions
+- Mystical Agriculture
+- Nullscape
+- Oh The Biomes You'll Go
+- Pam's Harvestcraft - Crops
+- Pam's Harvestcraft - Food Core
+- Pam's Harvestcraft - Food Extended
+- Pam's Harvestcraft - Trees
+- Patchouli
+- Polymorph
+- RightClickHarvest
+- Spirit
+- Star Worm Equestrian
+- SuperMartin642ConfigLib
+- SuperMartin642CoreLib
+- Terralith
+- Xaeros Minimap
+- Xaeros World Map
+
+## Client
+- Advancement Plaques
+- Better Fps - Render Distance
+- Bookshelf
+- Distant Horizons
+- Embeddium 
+- Enchantment Descriptions
+- Entity Collision FPS Fix
+- Entity Culling
+- Farsight
+- FerriteCore
+- Iceberg
+- Jade
+- Lightspeed
+- Modname Tooltip
+- Oculus
+- Rubidium Extras
+- Saturn
+- Starlight
+
+## Server
+- Chunky
+- FastFurnace
+- FastSuite
+- FastWorkbench
+- Simple Backups
+- Spark
+- Let Me Despawn
+- Observable
+- Server Performance - Smooth Chunk Save
+- Tempban
