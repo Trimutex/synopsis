@@ -1,89 +1,92 @@
 # TLP Modlist
 
-## Main:
-- AI Improvements | v0.5.2
-- Alcocraft: Beer & Stuff | v1.0.0
-- Amplified Nether | v1.1
-- Appleskin | v2.5.1
-- Applied Energistics 2 | v11.7.6
-- Architectury | v4.11.93
-- Attribute Fix | v14.0.2
-- Balm | v3.2.6
-- Biomes-O-Plenty | v16.0.0.134
-- Brandon's Core | v3.1.10.283
-- Caelus API | v3.0.0.2
-- Canary | v0.3.2
-- CC Tweaked | v1.101.3
-- Chunkloaders | v1.2.8a
-- Clumps | v8.0.0+17
-- CodeChicken Lib | v4.1.4.488
-- Cristel Lib | v1.0.0
-- Cucumber Library | v5.1.5
-- Curios API | v5.0.9.1
-- Draconic Evolution | v3.0.31.531
-- Dungeon Crawl | v2.3.14
-- Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons | v2.0.7
-- Falling Tree | v3.5.5
-- GeckoLib | v3.0.57
-- Immersive Engineering | v8.4.0-161
-- Iron's Spells 'n Spellbooks | v1.1.4.3
-- It Shall Not Tick | v1.0.22-build.34
-- Just Enough Items | v10.2.1.1002
-- KubeJS | v1802.5.5-build.569
-- Lazy DataFixerUpper | v0.1.3
-- Mekanism | v10.2.5
-- Mekanism: Generators | v10.2.5
-- MrCrayfish's Furniture Mod | v7.0.0-pre35
-- Mystical Agradditions | v5.1.4
-- Mystical Agriculture | v5.1.5
-- Nullscape | v1.1.4
-- Oh The Biomes You'll Go | v1.4
-- Pam's Harvestcraft - Crops | v1.0.6
-- Pam's Harvestcraft - Food Core | v1.0.1
-- Pam's Harvestcraft - Food Extended | v1.0
-- Pam's Harvestcraft - Trees | v1.0.1
-- Patchouli | v71.1
-- Polymorph | v0.49
-- Rhino | v1802.2.1-build.255
-- RightClickHarvest | v3.2.0
-- Spirit | v2.1.8
-- Star Worm Equestrian | v1.4.6
-- SuperMartin642ConfigLib | v1.1.8
-- SuperMartin642CoreLib | v1.1.16
-- TerraBlender | v1.2.0.126
-- Terralith | v2.2.6
-- The Twilight Forest | v4.1.1494
-- Xaeros World Map | v1.37.3
+## Base
+- [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.2.html) | v40.2.17
+
+## Main
+- [AI Improvements](https://modrinth.com/mod/ai-improvements) | v0.5.2
+- [Alcocraft: Beer & Stuff](https://www.curseforge.com/minecraft/mc-mods/alcocraft-beer-and-stuff) | v1.0.0
+- [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether) | v1.1.1
+- [AppleSkin](https://modrinth.com/mod/appleskin) | v2.5.1
+- [Applied Energistics 2](https://modrinth.com/mod/ae2) | v11.7.6
+- [Architectury API](https://modrinth.com/mod/architectury-api) | v4.11.93
+- [Attribute Fix](https://modrinth.com/mod/attributefix) | v14.0.2
+- [Balm](https://modrinth.com/mod/balm) | v3.2.6
+- [Biomes-O-Plenty](https://modrinth.com/mod/biomes-o-plenty) | v16.0.0.134
+- [Brandon's Core](https://modrinth.com/mod/brandons-core) | v3.1.10.283
+- [Caelus API](https://modrinth.com/mod/caelus) | v3.0.0.2
+- [Canary](https://modrinth.com/mod/canary) | v0.3.2
+- [CC Tweaked](https://modrinth.com/mod/cc-tweaked) | v1.101.3
+- [Chunk Loaders](https://modrinth.com/mod/chunk-loaders) | v1.2.8a
+- [Clumps](https://modrinth.com/mod/clumps) | v8.0.0+17
+- [CodeChicken Lib](https://modrinth.com/mod/codechicken-lib) | v4.1.4.488
+- [Cristel Lib](https://modrinth.com/mod/cristel-lib) | v1.0.0
+- [Cucumber Library](https://modrinth.com/mod/cucumber) | v5.1.5
+- [Curios API](https://modrinth.com/mod/curios) | v5.0.9.1
+- [Draconic Evolution](https://modrinth.com/mod/draconic-evolution) | v3.0.31.531
+- [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl) | v2.3.14
+- [Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons](https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials) | v2.0.7
+- [Falling Tree](https://modrinth.com/mod/fallingtree) | v3.5.5
+- [GeckoLib](https://modrinth.com/mod/geckolib) | v3.0.57
+- [Immersive Engineering](https://modrinth.com/mod/immersiveengineering) | v8.4.0-161
+- [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks) | v1.1.4.3
+- [It Shall Not Tick](https://modrinth.com/mod/it-shall-not-tick-(isnt)) | v1.0.22-build.34
+- [Just Enough Items](https://modrinth.com/mod/jei) | v10.2.1.1002
+- [KubeJS](https://modrinth.com/mod/kubejs) | v1802.5.5-build.569
+- [Lazy DataFixerUpper](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge) | v1.0
+- [Mekanism](https://modrinth.com/mod/mekanism) | v10.2.5.465
+- [Mekanism: Generators](https://modrinth.com/mod/mekanism-generators) | v10.2.5.465
+- [MrCrayfish's Furniture Mod](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod) | v7.0.0-pre35
+- [Mystical Agradditions](https://modrinth.com/mod/mystical-agradditions) | v5.1.4
+- [Mystical Agriculture](https://modrinth.com/mod/mystical-agriculture) | v5.1.5
+- [Nullscape](https://modrinth.com/mod/nullscape) | v1.1.4
+- [Oh The Biomes You'll Go](https://modrinth.com/mod/biomesyougo) | v1.5.1
+- [Pam's Harvestcraft - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops) | v1.0.6
+- [Pam's Harvestcraft - Food Core](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core) | v1.0.3
+- [Pam's Harvestcraft - Food Extended](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended) | v1.0.5
+- [Pam's Harvestcraft - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees) | v1.0.4
+- [Patchouli](https://modrinth.com/mod/patchouli) | v71.1
+- [Polymorph](https://modrinth.com/mod/polymorph) | v0.49
+- [Rhino](https://modrinth.com/mod/rhino) | v1802.2.1-build.255
+- [RightClickHarvest](https://modrinth.com/mod/rightclickharvest) | v3.2.0
+- [Spirit](https://modrinth.com/mod/spirit) | v2.1.8
+- [Star Worm Equestrian](https://modrinth.com/mod/swem) | v1.4.6
+- [SuperMartin642ConfigLib](https://modrinth.com/mod/supermartijn642s-config-lib) | v1.1.8
+- [SuperMartin642CoreLib](https://modrinth.com/mod/supermartijn642s-core-lib) | v1.1.16
+- [TerraBlender](https://modrinth.com/mod/terrablender) | v1.2.0.126
+- [Terralith](https://modrinth.com/mod/terralith) | v2.2.6
+- [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | v4.1.1494
+- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | v1.37.3
 
 ## Client
-- Advancement Plaques | v1.4.5.1
-- Better Fps - Render Distance | v1.5
-- Bookshelf | v13.3.56
-- Embeddium  | v0.2.18
-- Embeddium++  | v1.2.3
-- Enchantment Descriptions | v10.0.12
-- Entity Collision FPS Fix | v1.0.0
-- Entity Culling | v1.6.1
-- FerriteCore | v4.2.2
-- Iceberg | v1.0.49
-- Jade | v5.3.1
-- Lightspeed | v1.1.0
-- Memory Leak Fix | v1.1.2
-- Modname Tooltip | v1.18.0
-- Modern UI | v3.10.0.1
-- ModernFix | v5.12.0
-- Oculus | v1.6.4
-- Saturn | v0.1.3
-- Starlight | v1.0.2
-- TexTrue's Embeddium Options | v0.1.1
+- [Advancement Plaques](https://modrinth.com/mod/advancement-plaques) | v1.4.5.1
+- [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance) | v1.5
+- [Bookshelf](https://modrinth.com/mod/bookshelf-lib) | v13.3.56
+- [Embeddium](https://modrinth.com/mod/embeddium) | v0.2.18
+- [Embeddium++](https://modrinth.com/mod/embeddiumplus) | v1.2.3
+- [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions) | v10.0.12
+- [Entity Collision FPS Fix](https://www.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix) | v1.0.0
+- [Entity Culling](https://modrinth.com/mod/entityculling) | v1.6.1
+- [FerriteCore](https://modrinth.com/mod/ferrite-core) | v4.2.2
+- [Iceberg](https://modrinth.com/mod/iceberg) | v1.0.49
+- [Jade](https://modrinth.com/mod/jade) | v5.3.1
+- [Lightspeed](https://modrinth.com/mod/lightspeed) | v1.1.0
+- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) | v1.1.2
+- [Modname Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip) | v1.18.0
+- [Modern UI](https://modrinth.com/mod/modern-ui) | v3.10.0.1
+- [ModernFix](https://modrinth.com/mod/modernfix) | v5.12.0
+- [Oculus](https://modrinth.com/mod/oculus) | v1.6.4
+- [Saturn](https://modrinth.com/mod/saturn) | v0.1.3
+- [Starlight](https://modrinth.com/mod/starlight-forge) | v1.0.2
+- [TexTrue's Embeddium Options](https://modrinth.com/mod/textrues-embeddium-options) | v0.1.1
 
 ## Server
-- Chunky | v1.2.164
-- FastFurnace | v6.0.3
-- FastSuite | v3.0.2
-- FastWorkbench | v6.1.1
-- Let Me Despawn | v1.0.3
-- Observable | v2.2.3
-- Simple Backups | v1.1.13
-- Spark | v1.10.38
-- Tempban | v1.0.1
+- [Chunky](https://modrinth.com/plugin/chunky) | v1.2.164
+- [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) | v6.0.3
+- [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite) | v3.0.2
+- [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) | v6.1.1
+- [Let Me Despawn](https://modrinth.com/plugin/lmd) | v1.0.3
+- [Observable](https://modrinth.com/mod/observable) | v2.2.3
+- [Simple Backups](https://modrinth.com/mod/simple-backups) | v1.1.13
+- [Spark](https://modrinth.com/mod/spark) | v1.10.38
+- [Tempban](https://www.curseforge.com/minecraft/mc-mods/tempban) | v1.0.1
