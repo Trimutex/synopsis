@@ -46,6 +46,7 @@
 - [Pam's Harvestcraft - Food Extended](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended) | v1.0.5
 - [Pam's Harvestcraft - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees) | v1.0.4
 - [Patchouli](https://modrinth.com/mod/patchouli) | v71.1
+- [Pluto](https://modrinth.com/mod/pluto) | v0.0.6
 - [Polymorph](https://modrinth.com/mod/polymorph) | v0.49
 - [Rhino](https://modrinth.com/mod/rhino) | v1802.2.1-build.255
 - [RightClickHarvest](https://modrinth.com/mod/rightclickharvest) | v3.2.0
@@ -85,8 +86,11 @@
 - [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) | v6.0.3
 - [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite) | v3.0.2
 - [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) | v6.1.1
+- [Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge) | v3.12.0
 - [Let Me Despawn](https://modrinth.com/plugin/lmd) | v1.0.3
 - [Observable](https://modrinth.com/mod/observable) | v2.2.3
+- [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) | v6.6.7
+- [playerAnimator](https://www.curseforge.com/minecraft/mc-mods/playeranimator) | v1.0.2
 - [Simple Backups](https://modrinth.com/mod/simple-backups) | v1.1.13
 - [Spark](https://modrinth.com/mod/spark) | v1.10.38
 - [Tempban](https://www.curseforge.com/minecraft/mc-mods/tempban) | v1.0.1
