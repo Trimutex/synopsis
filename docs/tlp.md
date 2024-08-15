@@ -1,7 +1,7 @@
 # TLP Modlist
 
 ## Base
-- [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.2.html) | v40.2.17
+- [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.2.html) | v40.2.21
 
 ## Main
 - [AI Improvements](https://modrinth.com/mod/ai-improvements) | v0.5.2
@@ -9,20 +9,19 @@
 - [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether) | v1.1.1
 - [AppleSkin](https://modrinth.com/mod/appleskin) | v2.5.1
 - [Applied Energistics 2](https://modrinth.com/mod/ae2) | v11.7.6
-- [Architectury API](https://modrinth.com/mod/architectury-api) | v4.11.93
+- [Architectury API](https://modrinth.com/mod/architectury-api) | v4.12.94
 - [Attribute Fix](https://modrinth.com/mod/attributefix) | v14.0.2
 - [Balm](https://modrinth.com/mod/balm) | v3.2.6
 - [Biomes-O-Plenty](https://modrinth.com/mod/biomes-o-plenty) | v16.0.0.134
 - [Brandon's Core](https://modrinth.com/mod/brandons-core) | v3.1.10.283
 - [Caelus API](https://modrinth.com/mod/caelus) | v3.0.0.2
-- [Canary](https://modrinth.com/mod/canary) | v0.3.2
+- [Canary](https://modrinth.com/mod/canary) | v0.3.3
 - [CC Tweaked](https://modrinth.com/mod/cc-tweaked) | v1.101.3
-- [Chunk Loaders](https://modrinth.com/mod/chunk-loaders) | v1.2.8a
 - [Clumps](https://modrinth.com/mod/clumps) | v8.0.0+17
 - [CodeChicken Lib](https://modrinth.com/mod/codechicken-lib) | v4.1.4.488
 - [Cristel Lib](https://modrinth.com/mod/cristel-lib) | v1.0.0
 - [Cucumber Library](https://modrinth.com/mod/cucumber) | v5.1.5
-- [Curios API](https://modrinth.com/mod/curios) | v5.0.9.1
+- [Curios API](https://modrinth.com/mod/curios) | v5.0.9.2
 - [Draconic Evolution](https://modrinth.com/mod/draconic-evolution) | v3.0.31.531
 - [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl) | v2.3.14
 - [Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons](https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials) | v2.0.7
@@ -47,37 +46,35 @@
 - [Pam's Harvestcraft - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees) | v1.0.4
 - [Patchouli](https://modrinth.com/mod/patchouli) | v71.1
 - [Pluto](https://modrinth.com/mod/pluto) | v0.0.6
-- [Polymorph](https://modrinth.com/mod/polymorph) | v0.49
+- [Polymorph](https://modrinth.com/mod/polymorph) | v0.50
 - [Rhino](https://modrinth.com/mod/rhino) | v1802.2.1-build.255
 - [RightClickHarvest](https://modrinth.com/mod/rightclickharvest) | v3.2.0
 - [Spirit](https://modrinth.com/mod/spirit) | v2.1.8
 - [Star Worm Equestrian](https://modrinth.com/mod/swem) | v1.4.6
-- [SuperMartin642ConfigLib](https://modrinth.com/mod/supermartijn642s-config-lib) | v1.1.8
-- [SuperMartin642CoreLib](https://modrinth.com/mod/supermartijn642s-core-lib) | v1.1.16
 - [TerraBlender](https://modrinth.com/mod/terrablender) | v1.2.0.126
 - [Terralith](https://modrinth.com/mod/terralith) | v2.2.6
 - [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | v4.1.1494
-- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | v1.37.3
+- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | v1.38.8
 
 ## Client
 - [Advancement Plaques](https://modrinth.com/mod/advancement-plaques) | v1.4.5.1
 - [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance) | v1.5
 - [Bookshelf](https://modrinth.com/mod/bookshelf-lib) | v13.3.56
-- [Embeddium](https://modrinth.com/mod/embeddium) | v0.2.18
-- [Embeddium++](https://modrinth.com/mod/embeddiumplus) | v1.2.3
+- [Embeddium](https://modrinth.com/mod/embeddium) | v0.3.18
+- [Embeddium++](https://modrinth.com/mod/embeddiumplus) | v1.2.14
 - [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions) | v10.0.12
 - [Entity Collision FPS Fix](https://www.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix) | v1.0.0
 - [Entity Culling](https://modrinth.com/mod/entityculling) | v1.6.1
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) | v4.2.2
 - [Iceberg](https://modrinth.com/mod/iceberg) | v1.0.49
-- [Jade](https://modrinth.com/mod/jade) | v5.3.1
+- [Jade](https://modrinth.com/mod/jade) | v5.3.2
 - [Lightspeed](https://modrinth.com/mod/lightspeed) | v1.1.0
-- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) | v1.1.2
+- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) | v1.1.5
 - [Modname Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip) | v1.18.0
-- [Modern UI](https://modrinth.com/mod/modern-ui) | v3.10.0.1
-- [ModernFix](https://modrinth.com/mod/modernfix) | v5.12.0
+- [Modern UI](https://modrinth.com/mod/modern-ui) | v3.10.1.1
+- [ModernFix](https://modrinth.com/mod/modernfix) | v5.18.0
 - [Oculus](https://modrinth.com/mod/oculus) | v1.6.4
-- [Saturn](https://modrinth.com/mod/saturn) | v0.1.3
+- [Saturn](https://modrinth.com/mod/saturn) | v0.1.5
 - [Starlight](https://modrinth.com/mod/starlight-forge) | v1.0.2
 - [TexTrue's Embeddium Options](https://modrinth.com/mod/textrues-embeddium-options) | v0.1.1
 
@@ -88,9 +85,7 @@
 - [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) | v6.1.1
 - [Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge) | v3.12.0
 - [Let Me Despawn](https://modrinth.com/plugin/lmd) | v1.0.3
-- [Observable](https://modrinth.com/mod/observable) | v2.2.3
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) | v6.6.7
 - [playerAnimator](https://www.curseforge.com/minecraft/mc-mods/playeranimator) | v1.0.2
-- [Simple Backups](https://modrinth.com/mod/simple-backups) | v1.1.13
 - [Spark](https://modrinth.com/mod/spark) | v1.10.38
 - [Tempban](https://www.curseforge.com/minecraft/mc-mods/tempban) | v1.0.1
