@@ -26,6 +26,7 @@
 - [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl) | v2.3.14
 - [Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons](https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials) | v2.0.7
 - [Falling Tree](https://modrinth.com/mod/fallingtree) | v3.5.5
+- [FerriteCore](https://modrinth.com/mod/ferrite-core) | v4.2.2
 - [GeckoLib](https://modrinth.com/mod/geckolib) | v3.0.57
 - [Immersive Engineering](https://modrinth.com/mod/immersiveengineering) | v8.4.0-161
 - [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks) | v1.1.4.3
@@ -33,8 +34,11 @@
 - [Just Enough Items](https://modrinth.com/mod/jei) | v10.2.1.1002
 - [KubeJS](https://modrinth.com/mod/kubejs) | v1802.5.5-build.569
 - [Lazy DataFixerUpper](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge) | v1.0
+- [Lightspeed](https://modrinth.com/mod/lightspeed) | v1.1.0
 - [Mekanism](https://modrinth.com/mod/mekanism) | v10.2.5.465
 - [Mekanism: Generators](https://modrinth.com/mod/mekanism-generators) | v10.2.5.465
+- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) | v1.1.2
+- [ModernFix](https://modrinth.com/mod/modernfix) | v5.18.0
 - [MrCrayfish's Furniture Mod](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod) | v7.0.0-pre35
 - [Mystical Agradditions](https://modrinth.com/mod/mystical-agradditions) | v5.1.4
 - [Mystical Agriculture](https://modrinth.com/mod/mystical-agriculture) | v5.1.5
@@ -49,7 +53,9 @@
 - [Polymorph](https://modrinth.com/mod/polymorph) | v0.50
 - [Rhino](https://modrinth.com/mod/rhino) | v1802.2.1-build.255
 - [RightClickHarvest](https://modrinth.com/mod/rightclickharvest) | v3.2.0
+- [Saturn](https://modrinth.com/mod/saturn) | v0.1.5
 - [Spirit](https://modrinth.com/mod/spirit) | v2.1.8
+- [Starlight](https://modrinth.com/mod/starlight-forge) | v1.0.2
 - [Star Worm Equestrian](https://modrinth.com/mod/swem) | v1.4.6
 - [TerraBlender](https://modrinth.com/mod/terrablender) | v1.2.0.126
 - [Terralith](https://modrinth.com/mod/terralith) | v2.2.6
@@ -65,17 +71,11 @@
 - [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions) | v10.0.12
 - [Entity Collision FPS Fix](https://www.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix) | v1.0.0
 - [Entity Culling](https://modrinth.com/mod/entityculling) | v1.6.1
-- [FerriteCore](https://modrinth.com/mod/ferrite-core) | v4.2.2
 - [Iceberg](https://modrinth.com/mod/iceberg) | v1.0.49
 - [Jade](https://modrinth.com/mod/jade) | v5.3.2
-- [Lightspeed](https://modrinth.com/mod/lightspeed) | v1.1.0
-- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) | v1.1.5
 - [Modname Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip) | v1.18.0
 - [Modern UI](https://modrinth.com/mod/modern-ui) | v3.10.1.1
-- [ModernFix](https://modrinth.com/mod/modernfix) | v5.18.0
 - [Oculus](https://modrinth.com/mod/oculus) | v1.6.4
-- [Saturn](https://modrinth.com/mod/saturn) | v0.1.5
-- [Starlight](https://modrinth.com/mod/starlight-forge) | v1.0.2
 - [TexTrue's Embeddium Options](https://modrinth.com/mod/textrues-embeddium-options) | v0.1.1
 
 ## Server

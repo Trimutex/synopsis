@@ -1,3 +1,18 @@
+# 1.5.1
+
+## Client -> Core
+- FerriteCore
+- Lightspeed
+- Memory Leak Fix
+- ModernFix
+- Saturn
+- Starlight
+
+## Core Downgrades
+- Memory Leak Fix | v1.1.5 -> v1.1.2
+
+
+
 # 1.5.0
 
 ## Base
