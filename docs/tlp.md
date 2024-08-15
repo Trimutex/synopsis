@@ -1,79 +1,89 @@
 # TLP Modlist
 
 ## Main:
-- AI Improvements
-- Alcocraft: Beer & Stuff
-- Amplified Nether
-- Appleskin
-- Applied Energistics 2
-- Attribute Fix
-- Balm
-- Biomes-O-Plenty
-- Canary
-- CC Tweaked
-- Chunkloaders
-- Clumps
-- Cucumber
-- Dungeon Crawl
-- Draconic
-- Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons
-- Falling Tree
-- Immersive Engineering
-- Iron's Spells 'n Spellbooks
-- It Shall Not Tick
-- Just Enough Items
-- KubeJS
-- Lazy DataFixerUpper
-- Mekanism
-- Mekanism: Generators
-- MrCrayfish's Furniture Mod
-- Mystical Agradditions
-- Mystical Agriculture
-- Nullscape
-- Oh The Biomes You'll Go
-- Pam's Harvestcraft - Crops
-- Pam's Harvestcraft - Food Core
-- Pam's Harvestcraft - Food Extended
-- Pam's Harvestcraft - Trees
-- Patchouli
-- Polymorph
-- RightClickHarvest
-- Spirit
-- Star Worm Equestrian
-- SuperMartin642ConfigLib
-- SuperMartin642CoreLib
-- Terralith
-- Xaeros Minimap
-- Xaeros World Map
+- AI Improvements | v0.5.2
+- Alcocraft: Beer & Stuff | v1.0.0
+- Amplified Nether | v1.1
+- Appleskin | v2.5.1
+- Applied Energistics 2 | v11.7.6
+- Architectury | v4.11.93
+- Attribute Fix | v14.0.2
+- Balm | v3.2.6
+- Biomes-O-Plenty | v16.0.0.134
+- Brandon's Core | v3.1.10.283
+- Caelus API | v3.0.0.2
+- Canary | v0.3.2
+- CC Tweaked | v1.101.3
+- Chunkloaders | v1.2.8a
+- Clumps | v8.0.0+17
+- CodeChicken Lib | v4.1.4.488
+- Cristel Lib | v1.0.0
+- Cucumber Library | v5.1.5
+- Curios API | v5.0.9.1
+- Draconic Evolution | v3.0.31.531
+- Dungeon Crawl | v2.3.14
+- Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons | v2.0.7
+- Falling Tree | v3.5.5
+- GeckoLib | v3.0.57
+- Immersive Engineering | v8.4.0-161
+- Iron's Spells 'n Spellbooks | v1.1.4.3
+- It Shall Not Tick | v1.0.22-build.34
+- Just Enough Items | v10.2.1.1002
+- KubeJS | v1802.5.5-build.569
+- Lazy DataFixerUpper | v0.1.3
+- Mekanism | v10.2.5
+- Mekanism: Generators | v10.2.5
+- MrCrayfish's Furniture Mod | v7.0.0-pre35
+- Mystical Agradditions | v5.1.4
+- Mystical Agriculture | v5.1.5
+- Nullscape | v1.1.4
+- Oh The Biomes You'll Go | v1.4
+- Pam's Harvestcraft - Crops | v1.0.6
+- Pam's Harvestcraft - Food Core | v1.0.1
+- Pam's Harvestcraft - Food Extended | v1.0
+- Pam's Harvestcraft - Trees | v1.0.1
+- Patchouli | v71.1
+- Polymorph | v0.49
+- Rhino | v1802.2.1-build.255
+- RightClickHarvest | v3.2.0
+- Spirit | v2.1.8
+- Star Worm Equestrian | v1.4.6
+- SuperMartin642ConfigLib | v1.1.8
+- SuperMartin642CoreLib | v1.1.16
+- TerraBlender | v1.2.0.126
+- Terralith | v2.2.6
+- The Twilight Forest | v4.1.1494
+- Xaeros World Map | v1.37.3
 
 ## Client
-- Advancement Plaques
-- Better Fps - Render Distance
-- Bookshelf
-- Distant Horizons
-- Embeddium 
-- Enchantment Descriptions
-- Entity Collision FPS Fix
-- Entity Culling
-- Farsight
-- FerriteCore
-- Iceberg
-- Jade
-- Lightspeed
-- Modname Tooltip
-- Oculus
-- Rubidium Extras
-- Saturn
-- Starlight
+- Advancement Plaques | v1.4.5.1
+- Better Fps - Render Distance | v1.5
+- Bookshelf | v13.3.56
+- Embeddium  | v0.2.18
+- Embeddium++  | v1.2.3
+- Enchantment Descriptions | v10.0.12
+- Entity Collision FPS Fix | v1.0.0
+- Entity Culling | v1.6.1
+- FerriteCore | v4.2.2
+- Iceberg | v1.0.49
+- Jade | v5.3.1
+- Lightspeed | v1.1.0
+- Memory Leak Fix | v1.1.2
+- Modname Tooltip | v1.18.0
+- Modern UI | v3.10.0.1
+- ModernFix | v5.12.0
+- Oculus | v1.6.4
+- Saturn | v0.1.3
+- Starlight | v1.0.2
+- TexTrue's Embeddium Options | v0.1.1
 
 ## Server
-- Chunky
-- FastFurnace
-- FastSuite
-- FastWorkbench
-- Simple Backups
-- Spark
-- Let Me Despawn
-- Observable
-- Server Performance - Smooth Chunk Save
-- Tempban
+- Chunky | v1.2.164
+- FastFurnace | v6.0.3
+- FastSuite | v3.0.2
+- FastWorkbench | v6.1.1
+- Let Me Despawn | v1.0.3
+- Observable | v2.2.3
+- Simple Backups | v1.1.13
+- Spark | v1.10.38
+- Tempban | v1.0.1
