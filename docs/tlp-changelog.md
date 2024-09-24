@@ -1,3 +1,88 @@
+# 2.0.0
+
+## Base
+| Base Name | Old Version | New Version |
+| -------- | ----------- | ----------- |
+| Minecraft | v1.18.2 | v1.21.1 |
+| Forge | v40.2.21 | --- |
+| NeoForge | --- | 21.1.59 |
+
+## Core
+| Mod Name | Old Version | New Version |
+| -------- | ----------- | ----------- |
+| Adorned | --- | v9.1.4 |
+| AI Improvements | v0.5.2 | v0.5.3 |
+| Alcocraft | v1.0.0 | --- |
+| Amplified Nether | v1.1.1 | v1.2.5 |
+| AppleSkin | v2.5.1 | v3.0.5 |
+| Applied Energistics 2 | v11.7.6 | v19.0.23-beta |
+| Architectury API | v4.12.94 | v13.0.6 |
+| Attribute Fix | v14.0.2 | --- |
+| Balm | v3.2.6 | v21.0.19 |
+| Better Chunk Loading | --- | v4.5 |
+| Biomes-O-Plenty | v16.0.0.134 | v21.1.0.4
+| Brandon's Core | v3.1.10.283 | --- |
+| Caelus API | v3.0.0.2 | v7.0.1 |
+| Canary | v0.3.3 | --- |
+| CC Tweaked | v1.101.3 | v1.113.1 |
+| Clumps | v8.0.0+17 | v19.0.0.1 |
+| CodeChicken Lib | v4.1.4.488 | --- |
+| Connectivity | --- | v5.8 |
+| Cristel Lib | v1.0.0 | v1.2.8 |
+| Cucumber Library | v5.1.5 | v8.0.5 |
+| Curios API | v5.0.9.2 | --- |
+| Does It Tick? | --- | v1.0.0 |
+| Draconic Evolution | v3.0.31.531 | --- |
+| Enhanced Celestials | v2.0.7 | --- |
+| Falling Tree | v3.5.5 | v1.21.1.2 |
+| FerriteCore | v4.2.2 | v7.0.0 |
+| GeckoLib | v3.0.57 | v4.6.5 |
+| Immersive Engineering | v8.4.0-161 |  |
+| Iron's Spells 'n Spellbooks | v1.1.4.3 | v3.5.0 |
+| It Shall Not Tick | v1.0.22-build.34 | --- |
+| Just Enough Items | v10.2.1.1002 | v19.18.10.218 |
+| KubeJS | v1802.5.5-build.569 | v2101.7.0-build.171 |
+| Lazy DataFixerUpper | v1.0 | --- |
+| Leaky | --- | v2.1 |
+| Glitchcore | --- | v2.1.0.0 |
+| Jamlib | --- | v1.0.11 |
+| Cupboard | --- | v2.8 |
+| Corgilib| --- | v5.0.0.2 |
+| Framework | --- | v0.9.2 |
+| Oh The Trees You'll Grow | --- | v5.0.3 |
+| Lightspeed | v1.1.0 | --- |
+| Mekanism | v10.2.5.465 | v10.7.7.64 |
+| Mekanism: Generators | v10.2.5.465 | v10.7.7.64 |
+| Memory Leak Fix | v1.1.2 | --- |
+| ModernFix | v5.18.0 | v5.19.3 |
+| MrCrayfish's Furniture Mod | v7.0.0-pre35 | --- |
+| MrCrayfish's Furniture Mod: Refurbished | --- | v1.0.6 |
+| Mystical Agradditions | v5.1.4 | v8.0.0 |
+| Mystical Agriculture | v5.1.5 | v8.0.6 |
+| Nullscape | v1.1.4 | v1.2.7 |
+| Oh The Biomes You'll Go | v1.5.1 | --- |
+| Oh The Biomes We've Gone | --- | v2.0.4-beta |
+| Pam's Harvestcraft - Crops | v1.0.6 | 1.0.0 |
+| Pam's Harvestcraft - Food Core | v1.0.3 |  |
+| Pam's Harvestcraft - Food Extended | v1.0.5 |  |
+| Pam's Harvestcraft - Trees | v1.0.4 |  |
+| Patchouli | v71.1 | v87 |
+| Pluto | v0.0.6 | --- |
+| Polymorph | v0.50 | v1.0.6 |
+| Recipe Essentials | --- | v3.8 |
+| Rhino | v1802.2.1-build.255 | v2101.2.5-build.54 |
+| RightClickHarvest | v3.2.0 | v4.3.1 |
+| Saturn | v0.1.5 | --- |
+| Spirit | v2.1.8 | --- |
+| Starlight | v1.0.2 | --- |
+| Star Worm Equestrian | v1.4.6 | --- |
+| TerraBlender | v1.2.0.126 | v4.1.0.3 |
+| Terralith | v2.2.6 | v2.5.5 |
+| The Twilight Forest | v4.1.1494 | v4.6.2780 |
+| Xaero's World Map | v1.38.8 | v1.39.0 |
+
+
+
 # 1.5.1
 
 ## Client -> Core
